@@ -53,6 +53,11 @@
             <PlaceSettings />
           </value>
         </entry>
+        <entry key="TestsFiledAssertions">
+          <value>
+            <PlaceSettings />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="b">
@@ -70,6 +75,9 @@
         <PlaceSettings />
       </entry>
       <entry key="Merge">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>
