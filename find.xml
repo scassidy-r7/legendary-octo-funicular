@@ -17,10 +17,11 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>logback.groovy</mask>
-      <mask>*.properties</mask>
       <mask>Buildfile</mask>
       <mask>*.java</mask>
       <mask>*.groovy</mask>
+      <mask>*.properties</mask>
+      <mask>config.properties</mask>
       <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
