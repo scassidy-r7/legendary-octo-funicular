@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -20,7 +21,19 @@
       <mask>*.java</mask>
       <mask>*.groovy</mask>
       <mask>*.properties</mask>
+      <mask>c</mask>
+      <mask>con</mask>
+      <mask>conf</mask>
+      <mask>config</mask>
+      <mask>config.</mask>
+      <mask>config.p</mask>
+      <mask>config.pr</mask>
+      <mask>config.proper</mask>
       <mask>config.properties</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
       <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
