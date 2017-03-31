@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Buildfile" type="PLAIN_TEXT" />
+      <mapping pattern="chefignore" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="groovy" type="PLAIN_TEXT" />
+      <mapping pattern="Cloudfile" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
