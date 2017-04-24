@@ -514,11 +514,7 @@
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.7.9, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.7.9/bin" />
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.7.9/lib" />
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.7.9/apis" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.7.9/bin" />
