@@ -7,22 +7,11 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>logback.groovy</mask>
-      <mask>Buildfile</mask>
-      <mask>*.groovy</mask>
-      <mask>c</mask>
-      <mask>con</mask>
-      <mask>conf</mask>
-      <mask>config</mask>
-      <mask>config.</mask>
-      <mask>config.p</mask>
       <mask>config.pr</mask>
       <mask>config.proper</mask>
       <mask>config.properties</mask>
       <mask>*.jav</mask>
       <mask>*.j</mask>
-      <mask>*.pr</mask>
       <mask>*.propert</mask>
       <mask>pom.</mask>
       <mask>*.ja</mask>
@@ -31,11 +20,22 @@
       <mask>pom</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.proper</mask>
       <mask>*.properti</mask>
+      <mask>B</mask>
+      <mask>Bui</mask>
+      <mask>Buil</mask>
+      <mask>Build</mask>
+      <mask>Buildf</mask>
+      <mask>Buildfi</mask>
+      <mask>Buildfile</mask>
+      <mask>*</mask>
+      <mask>*.con</mask>
+      <mask>*.co</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
       <mask>*.properties</mask>
     </recentFileMasks>
   </component>
