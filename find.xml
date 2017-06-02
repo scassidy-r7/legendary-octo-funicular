@@ -3,16 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>config.pr</mask>
       <mask>config.proper</mask>
       <mask>config.properties</mask>
       <mask>*.jav</mask>
       <mask>*.j</mask>
-      <mask>*.propert</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.proper</mask>
       <mask>*.properti</mask>
       <mask>B</mask>
       <mask>Bui</mask>
@@ -21,19 +20,21 @@
       <mask>Buildf</mask>
       <mask>Buildfi</mask>
       <mask>Buildfile</mask>
-      <mask>*</mask>
       <mask>*.con</mask>
       <mask>*.co</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.pr</mask>
-      <mask>*.properties</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
