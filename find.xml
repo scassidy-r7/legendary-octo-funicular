@@ -3,30 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>Buildfi</mask>
       <mask>Buildfile</mask>
       <mask>*.con</mask>
       <mask>*.co</mask>
       <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properties</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>p</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xml</mask>
       <mask>*.ka</mask>
       <mask>*.k</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.ca</mask>
       <mask>*.cat</mask>
@@ -35,6 +21,20 @@
       <mask>*.catalog</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
+      <mask>pom.xm</mask>
+      <mask>*.propert</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>

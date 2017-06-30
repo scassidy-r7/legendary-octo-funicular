@@ -1,14 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="activesupport (v4.2.5, rbenv: 2.3.0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activesupport-4.2.5/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/activesupport-4.2.5/lib" />
-      </SOURCES>
-    </library>
     <library name="activesupport (v4.2.5, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activesupport-4.2.5/lib" />
@@ -111,186 +102,6 @@
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.1.36/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-resources (v2.1.36, ruby-2.3.0-p0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.1.36/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.1.36/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.11, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.11/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.11/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.11, ruby-2.3.0-p0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.11/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.11/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.12, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.12/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.12/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.13, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.13/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.13/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.14, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.14/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.14/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.3, ruby-2.3.0-p0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.3/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.7, ruby-2.3.0-p0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.7/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.7/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.8, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.8/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.8/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.8, ruby-2.3.0-p0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.8/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.8/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.9, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.9/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.9/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.7.9, ruby-2.3.0-p0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.9/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.7.9/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.8.0, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.8.1, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.8.11, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.11/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.11/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.8.12, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.12/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.12/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.8.14, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.14/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.14/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.8.2, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.8.5, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.5/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.5/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.8.7, rbenv: 2.3.3) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.7/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.8.7/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sigv4 (v1.0.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.0/lib" />
@@ -298,24 +109,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sigv4 (v1.0.0, ruby-2.3.0-p0 (1)) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sigv4 (v1.0.0, ruby-2.3.0-p0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws-sigv4-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="aws_config (v0.0.2, rbenv: 2.3.0) [gem]">
@@ -334,15 +127,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/aws_config-0.0.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws_config (v0.0.2, ruby-2.3.0-p0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws_config-0.0.2/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/aws_config-0.0.2/lib" />
       </SOURCES>
     </library>
     <library name="awspec (v0.20.1, rbenv: 2.3.0) [gem]">
@@ -367,17 +151,6 @@
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/awspec-0.20.1/lib" />
       </SOURCES>
     </library>
-    <library name="awspec (v0.20.1, ruby-2.3.0-p0) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/awspec-0.20.1/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/awspec-0.20.1/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/awspec-0.20.1/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/awspec-0.20.1/lib" />
-      </SOURCES>
-    </library>
     <library name="berkshelf (v4.3.5, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/bin" />
@@ -391,21 +164,6 @@
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/lib" />
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/features" />
         <root url="file:///usr/local/opt/rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/generator_files" />
-      </SOURCES>
-    </library>
-    <library name="berkshelf (v4.3.5, ruby-2.3.0-p0 (1)) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/lib" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/features" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/generator_files" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/lib" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/features" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/berkshelf-4.3.5/generator_files" />
       </SOURCES>
     </library>
     <library name="berkshelf (v4.3.5, ruby-2.3.0-p0) [gem]">
@@ -659,19 +417,6 @@
       </SOURCES>
     </library>
     <library name="builderator (v1.2.2, ruby-2.3.0-p0 (1)) [gem]">
-      <CLASSES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builderator-1.2.2/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builderator-1.2.2/lib" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builderator-1.2.2/template" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builderator-1.2.2/bin" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builderator-1.2.2/lib" />
-        <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builderator-1.2.2/template" />
-      </SOURCES>
-    </library>
-    <library name="builderator (v1.2.2, ruby-2.3.0-p0) [gem]">
       <CLASSES>
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builderator-1.2.2/bin" />
         <root url="file:///usr/local/lib/ruby/gems/2.3.0/gems/builderator-1.2.2/lib" />
