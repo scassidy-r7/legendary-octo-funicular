@@ -2,16 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>Buildfile</mask>
-      <mask>*.con</mask>
-      <mask>*.co</mask>
-      <mask>*.pr</mask>
-      <mask>*.j</mask>
-      <mask>*.ka</mask>
-      <mask>*.k</mask>
       <mask>*.jav</mask>
       <mask>*.c</mask>
       <mask>*.ca</mask>
@@ -20,16 +18,23 @@
       <mask>*.catal</mask>
       <mask>*.catalog</mask>
       <mask>*.js</mask>
-      <mask>*.json</mask>
       <mask>pom.xm</mask>
       <mask>*.propert</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>.</mask>
+      <mask>.j</mask>
+      <mask>.json</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.json</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
