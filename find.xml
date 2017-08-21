@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.factories" />
     <recentFileMasks>
       <mask>*.ym</mask>
       <mask>*.y</mask>
@@ -18,11 +18,6 @@
       <mask>*.pom</mask>
       <mask>.pom</mask>
       <mask>pom.xm</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.fa</mask>
       <mask>*.fac</mask>
@@ -30,13 +25,18 @@
       <mask>*.facto</mask>
       <mask>*.factor</mask>
       <mask>*.factori</mask>
-      <mask>*.factories</mask>
       <mask>p</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+      <mask>*.factories</mask>
     </recentFileMasks>
   </component>
 </application>
