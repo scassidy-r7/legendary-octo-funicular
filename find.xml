@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>.json</mask>
       <mask>*.j</mask>
@@ -18,29 +18,29 @@
       <mask>*.pom</mask>
       <mask>.pom</mask>
       <mask>pom.xm</mask>
-      <mask>*.f</mask>
-      <mask>*.fa</mask>
       <mask>*.fac</mask>
       <mask>*.fact</mask>
       <mask>*.facto</mask>
       <mask>*.factor</mask>
       <mask>*.factori</mask>
       <mask>po</mask>
-      <mask>*.jav</mask>
-      <mask>*.factories</mask>
       <mask>*.y</mask>
       <mask>*.ya</mask>
       <mask>*.yam</mask>
       <mask>*.yaml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.f</mask>
+      <mask>*.fa</mask>
+      <mask>*.factories</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
