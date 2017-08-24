@@ -132,6 +132,7 @@
             </list>
           </option>
           <option name="id" value="1503395797970" />
+          <option name="maxProcessingTime" value="500" />
         </Profile>
       </list>
     </option>
