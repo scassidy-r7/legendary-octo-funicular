@@ -5,6 +5,7 @@
       <mapping pattern="TypeConverter" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="msgpack" type="PLAIN_TEXT" />
       <mapping ext="catalog" type="PLAIN_TEXT" />
       <mapping ext="avro" type="Avro™ IDL" />
       <mapping ext="avsc" type="Avro™ IDL" />
