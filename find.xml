@@ -17,13 +17,6 @@
       <mask>ja</mask>
       <mask>j</mask>
       <mask>po</mask>
-      <mask>p</mask>
-      <mask>pom.x</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.yaml</mask>
       <mask>*.yam</mask>
       <mask>*.ya</mask>
@@ -37,6 +30,13 @@
       <mask>*.properties</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
