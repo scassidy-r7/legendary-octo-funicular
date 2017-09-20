@@ -7,13 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.fa</mask>
-      <mask>*.factories</mask>
-      <mask>*.jav</mask>
-      <mask>*.ym</mask>
-      <mask>ja</mask>
-      <mask>j</mask>
       <mask>*.yaml</mask>
       <mask>*.yam</mask>
       <mask>*.ya</mask>
@@ -28,8 +23,6 @@
       <mask>*.properties</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pom</mask>
       <mask>p</mask>
@@ -38,6 +31,14 @@
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
