@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.yaml</mask>
       <mask>*.yam</mask>
@@ -16,8 +16,6 @@
       <mask>*.y,</mask>
       <mask>*.prope</mask>
       <mask>*.propert</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.pr</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
@@ -26,8 +24,6 @@
       <mask>po</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
@@ -39,6 +35,10 @@
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
