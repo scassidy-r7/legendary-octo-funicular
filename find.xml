@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.y,</mask>
       <mask>*.prope</mask>
@@ -28,15 +28,15 @@
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
