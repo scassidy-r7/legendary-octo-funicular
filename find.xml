@@ -5,15 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.factories" />
     <recentFileMasks>
-      <mask>*.y,</mask>
-      <mask>*.prope</mask>
-      <mask>*.propert</mask>
-      <mask>*.pr</mask>
-      <mask>*.proper</mask>
-      <mask>*.properties</mask>
-      <mask>*.p</mask>
       <mask>*.pom</mask>
       <mask>po</mask>
       <mask>*.g</mask>
@@ -28,8 +21,6 @@
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>p</mask>
@@ -37,6 +28,15 @@
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.fa</mask>
+      <mask>*.fac</mask>
+      <mask>*.fact</mask>
+      <mask>*.factor</mask>
+      <mask>*.factori</mask>
+      <mask>*.factorie</mask>
+      <mask>*.factories</mask>
     </recentFileMasks>
   </component>
 </application>
