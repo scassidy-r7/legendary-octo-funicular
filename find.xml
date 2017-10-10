@@ -21,10 +21,6 @@
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.fa</mask>
       <mask>*.fac</mask>
       <mask>*.fact</mask>
@@ -32,6 +28,10 @@
       <mask>*.factori</mask>
       <mask>*.factorie</mask>
       <mask>*.factories</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
