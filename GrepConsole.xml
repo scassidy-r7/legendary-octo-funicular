@@ -103,32 +103,6 @@
                 </option>
                 <option name="name" value="default" />
               </GrepExpressionGroup>
-              <GrepExpressionGroup>
-                <option name="grepExpressionItems">
-                  <list>
-                    <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*INFO.*" />
-                      <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="83c81949-e0c4-457f-932f-b6847200c87f" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-16742007" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="bb777cd3-3759-4021-9de3-1edb93351bfa" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                  </list>
-                </option>
-                <option name="name" value="new" />
-              </GrepExpressionGroup>
             </list>
           </option>
           <option name="id" value="1503395797970" />
