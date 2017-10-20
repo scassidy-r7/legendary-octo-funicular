@@ -7,14 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.pom</mask>
-      <mask>po</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
       <mask>*.javapom.</mask>
@@ -30,8 +24,6 @@
       <mask>*.factori</mask>
       <mask>*.factorie</mask>
       <mask>*.factories</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>p</mask>
@@ -39,6 +31,14 @@
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
