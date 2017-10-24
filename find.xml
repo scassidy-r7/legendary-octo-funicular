@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
@@ -26,15 +25,15 @@
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
-      <mask>*.yml</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
