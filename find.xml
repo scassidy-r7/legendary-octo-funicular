@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
@@ -20,8 +20,6 @@
       <mask>*.factori</mask>
       <mask>*.factorie</mask>
       <mask>*.factories</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -32,11 +30,13 @@
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.yml</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
