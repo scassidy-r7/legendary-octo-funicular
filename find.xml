@@ -7,14 +7,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
       <mask>*.javapom.</mask>
       <mask>*.javapom.xml</mask>
       <mask>apom.xml</mask>
-      <mask>*.ym</mask>
       <mask>*.fa</mask>
       <mask>*.fac</mask>
       <mask>*.fact</mask>
@@ -28,17 +27,18 @@
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
-      <mask>*.y</mask>
-      <mask>*.yml</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
