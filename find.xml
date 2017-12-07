@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>apom.xml</mask>
       <mask>*.fa</mask>
       <mask>*.fac</mask>
       <mask>*.fact</mask>
@@ -29,16 +28,17 @@
       <mask>*.y</mask>
       <mask>*.yml</mask>
       <mask>pom.</mask>
-      <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>p</mask>
       <mask>pom</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.j</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
